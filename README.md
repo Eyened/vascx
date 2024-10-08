@@ -1,4 +1,4 @@
-# vascx retinal analysis pipeline
+# VascX retinal analysis pipeline
 
 Repository for future deployment of the vascx retinal analysis pipeline. We will make available the building blocks of our pipeline here as we publish them.
 
